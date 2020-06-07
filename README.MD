@@ -3,7 +3,7 @@
 /doc: 개발과정에 필요한 문서
 
 
-  -Requirement Specification(Last Update 2020.05.13)
+  \t-Requirement Specification(Last Update 2020.05.13)
   
   
   -Design Specification(Last Update 2020.06.06)
